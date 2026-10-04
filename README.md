@@ -1,21 +1,17 @@
-# Ingénierie Agricole BF
+# Ingénierie Agricole BF — V9
 
-Première version du site professionnel bilingue Français / English.
+Site professionnel bilingue de LARE Sayouba, Ingénieur Agronome.
 
-## Ouvrir le site
-1. Décompressez le dossier si nécessaire.
-2. Ouvrez `index.html` dans Chrome, Edge, Firefox ou Safari.
+## Nouveautés V9
+- Navigation mobile améliorée et menu accessible.
+- Recherche interne par mots-clés.
+- Boutons rapides Appeler / WhatsApp / E-mail.
+- Bouton de partage du site.
+- Bouton « Retour en haut ».
+- Meilleure ergonomie mobile.
+- Formulaire de contact relié à l’e-mail par défaut.
+- Métadonnées de partage et référencement améliorées.
+- Conservation des publications et documents de la version V8.
 
-## Fichiers
-- `index.html` : contenu et structure
-- `style.css` : design
-- `script.js` : menu mobile et basculement FR/EN
-
-## À compléter ensuite
-- coordonnées réelles
-- photo professionnelle / logo
-- projets détaillés
-- études et publications
-- galerie
-- formulaire connecté à un service e-mail
-- nom de domaine et hébergement
+## Mise en ligne
+Déposer le contenu de ce dossier à la racine du dépôt GitHub Pages.
